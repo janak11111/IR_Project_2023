@@ -31,4 +31,4 @@ model gives prediction of emotion on new page where we can see orignal tweet wit
 
 4)
 
-user can try again with differnt input for emotion detection.
+user can try again with differnt input 

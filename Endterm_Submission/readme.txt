@@ -10,6 +10,8 @@ BERT_model.ipynb - file containing modeling part of project using BERT model
 LSTM_model.ipynb - file containing modeling part of project using LSTM model
 big_dataset.csv - file contrain dataset which has been during project
 
+saved model link - https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKdemFdzHDF_6T?usp=share_link
+
 
 Steps to run project :
 
@@ -31,4 +33,4 @@ model gives prediction of emotion on new page where we can see orignal tweet wit
 
 4)
 
-user can try again with differnt input 
+user can try again with differnt input for detecting emotion.
